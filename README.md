@@ -12,7 +12,7 @@ seqtk sample -s517 oilMP_S4_L001_R2_001.fastq 1500000 > R2_matepairs.fastq
 
 mkdir fastqc
 
-ls *.fastq | xargs -P 4 -tI{} fastqc -o fastqc {}
+ls *.fastq* | xargs -P 4 -tI{} fastqc -o fastqc {}
 
 mkdir multiqc
 
