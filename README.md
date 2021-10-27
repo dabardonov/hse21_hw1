@@ -36,6 +36,12 @@ time platanus gap_close -o Poil -t 2 -c Poil_scaffold.fa -IP1 R1_pairend.fastq.t
 
 ![image](https://user-images.githubusercontent.com/93095449/139111575-a16d3101-393e-428d-b889-f4b6df59e94e.png)
 
+## Информация для данных после обрезки
+
+![image](https://user-images.githubusercontent.com/93095449/139114406-734bd8ce-8d4e-4525-85a1-2a0d08f0cb43.png)
+
+![image](https://user-images.githubusercontent.com/93095449/139114467-35a578f6-c76e-4c21-9652-42fb9fc60356.png)
+
 ## Изучение данных в Jupyter Notebook
 
 ![image](https://user-images.githubusercontent.com/93095449/139111760-1c037e91-1808-4189-9a45-6da32562e713.png)
