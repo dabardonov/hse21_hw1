@@ -29,6 +29,7 @@ time platanus scaffold -o Poil -t 2 -c Poil_contig.fa -IP1 R1_pairend.fastq.trim
 time platanus gap_close -o Poil -t 2 -c Poil_scaffold.fa -IP1 R1_pairend.fastq.trimmed R2_pairend.fastq.trimmed -OP2 R1_matepairs.fastq.int_trimmed R2_matepairs.fastq.int_trimmed 2> gapclose.log
 
 ```
+Создавал, перемещал и удалял папки и файлы в WinSCP.
 
 ## Информация для данных до обрезки
 
